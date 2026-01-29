@@ -1,0 +1,25 @@
+# Virtual environments
+hnet-env/
+*-env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Large files/models
+*.bin
+*.pt
+*.pth
+*.onnx
+*.safetensors
+*.json
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
